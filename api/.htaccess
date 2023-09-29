@@ -1,0 +1,8 @@
+# Use PHP5 Single php.ini as default
+# AddHandler application/x-httpd-eig-php52 .php
+
+RewriteEngine On
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule !\.(js|ico|gif|jpg|png|css)$ router.php

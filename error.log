@@ -1,0 +1,5 @@
+[30-Aug-2023 09:23:41 America/Boise] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, mysqli_result given in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php:21
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/detailsWService.php(121): ProductService->getProduct('9')
+#1 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 21

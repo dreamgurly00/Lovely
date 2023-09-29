@@ -1,0 +1,292 @@
+[30-Aug-2023 09:25:07 America/Boise] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, mysqli_result given in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php:21
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/detailsWService.php(121): ProductService->getProduct('9')
+#1 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 21
+[30-Aug-2023 09:26:08 America/Boise] PHP Warning:  Undefined array key "id" in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 25
+[30-Aug-2023 09:26:08 America/Boise] PHP Warning:  Undefined array key "name" in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 26
+[30-Aug-2023 09:26:08 America/Boise] PHP Warning:  Undefined array key "price" in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 27
+[30-Aug-2023 09:26:08 America/Boise] PHP Warning:  Undefined array key "description" in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 28
+[30-Aug-2023 09:26:08 America/Boise] PHP Warning:  Undefined array key "image" in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 29
+[30-Aug-2023 09:26:08 America/Boise] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, ProductItem given in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/detailsWService.php:125
+Stack trace:
+#0 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/detailsWService.php on line 125
+[30-Aug-2023 09:26:39 America/Boise] PHP Warning:  Undefined array key "id" in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 25
+[30-Aug-2023 09:26:39 America/Boise] PHP Warning:  Undefined array key "name" in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 26
+[30-Aug-2023 09:26:39 America/Boise] PHP Warning:  Undefined array key "price" in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 27
+[30-Aug-2023 09:26:39 America/Boise] PHP Warning:  Undefined array key "description" in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 28
+[30-Aug-2023 09:26:39 America/Boise] PHP Warning:  Undefined array key "image" in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 29
+[30-Aug-2023 09:26:39 America/Boise] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, ProductItem given in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/detailsWService.php:125
+Stack trace:
+#0 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/detailsWService.php on line 125
+[30-Aug-2023 09:27:09 America/Boise] PHP Warning:  Undefined array key 0 in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 25
+[30-Aug-2023 09:27:09 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 25
+[30-Aug-2023 09:27:09 America/Boise] PHP Warning:  Undefined array key "name" in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 26
+[30-Aug-2023 09:27:09 America/Boise] PHP Warning:  Undefined array key "price" in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 27
+[30-Aug-2023 09:27:09 America/Boise] PHP Warning:  Undefined array key "description" in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 28
+[30-Aug-2023 09:27:09 America/Boise] PHP Warning:  Undefined array key "image" in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 29
+[30-Aug-2023 09:27:09 America/Boise] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, ProductItem given in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/detailsWService.php:125
+Stack trace:
+#0 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/detailsWService.php on line 125
+[30-Aug-2023 09:28:31 America/Boise] PHP Warning:  Undefined array key 0 in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 25
+[30-Aug-2023 09:28:31 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 25
+[30-Aug-2023 09:28:31 America/Boise] PHP Warning:  Undefined array key "name" in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 26
+[30-Aug-2023 09:28:31 America/Boise] PHP Warning:  Undefined array key "price" in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 27
+[30-Aug-2023 09:28:31 America/Boise] PHP Warning:  Undefined array key "description" in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 28
+[30-Aug-2023 09:28:31 America/Boise] PHP Warning:  Undefined array key "image" in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 29
+[30-Aug-2023 09:28:31 America/Boise] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, ProductItem given in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/detailsWService.php:125
+Stack trace:
+#0 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/detailsWService.php on line 125
+[30-Aug-2023 09:29:04 America/Boise] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, ProductItem given in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/detailsWService.php:125
+Stack trace:
+#0 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/detailsWService.php on line 125
+[30-Aug-2023 09:29:34 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type ProductItem as array in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/detailsWService.php:157
+Stack trace:
+#0 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/detailsWService.php on line 157
+[30-Aug-2023 09:30:47 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type ProductItem as array in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/detailsWService.php:177
+Stack trace:
+#0 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/detailsWService.php on line 177
+[30-Aug-2023 09:42:16 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function mapProductToModel() in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php:42
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/detailsWService.php(151): ProductService->getAllProducts()
+#1 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 42
+[30-Aug-2023 09:43:46 America/Boise] PHP Warning:  Undefined variable $product in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 43
+[30-Aug-2023 09:43:46 America/Boise] PHP Warning:  Undefined variable $product in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 43
+[30-Aug-2023 09:43:46 America/Boise] PHP Warning:  Undefined variable $product in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 43
+[30-Aug-2023 09:43:46 America/Boise] PHP Warning:  Undefined variable $product in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 43
+[30-Aug-2023 09:43:46 America/Boise] PHP Warning:  Undefined variable $product in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 43
+[30-Aug-2023 09:43:46 America/Boise] PHP Warning:  Undefined variable $product in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 43
+[30-Aug-2023 10:07:25 America/Boise] PHP Fatal error:  Uncaught Error: Class "Cart" not found in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php:63
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php(24): CartService->viewCart()
+#1 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 63
+[30-Aug-2023 10:08:25 America/Boise] PHP Warning:  require_once(infrastructure/models/Cart.php): Failed to open stream: No such file or directory in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 5
+[30-Aug-2023 10:08:25 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'infrastructure/models/Cart.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php:5
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php(2): require_once()
+#1 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 5
+[31-Aug-2023 07:10:13 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type Cart as array in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php:99
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php(70): CartService->mapProductToModel(Object(Cart))
+#1 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php(24): CartService->viewCart()
+#2 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 99
+[31-Aug-2023 07:11:01 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type Cart as array in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php:99
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php(70): CartService->mapProductToModel(Object(Cart))
+#1 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php(24): CartService->viewCart()
+#2 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 99
+[31-Aug-2023 07:14:58 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type Cart as array in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php:99
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php(70): CartService->mapProductToModel(Object(Cart))
+#1 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php(24): CartService->viewCart()
+#2 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 99
+[31-Aug-2023 07:16:38 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type Cart as array in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php:99
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php(70): CartService->mapProductToModel(Object(Cart))
+#1 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php(24): CartService->viewCart()
+#2 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 99
+[31-Aug-2023 07:18:27 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type Cart as array in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php:99
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php(70): CartService->mapProductToModel(Object(Cart))
+#1 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php(24): CartService->viewCart()
+#2 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 99
+[31-Aug-2023 07:19:35 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type Cart as array in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php:99
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php(70): CartService->mapProductToModel(Object(Cart))
+#1 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php(24): CartService->viewCart()
+#2 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 99
+[31-Aug-2023 07:19:46 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type Cart as array in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php:99
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php(70): CartService->mapProductToModel(Object(Cart))
+#1 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php(24): CartService->viewCart()
+#2 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 99
+[31-Aug-2023 07:20:41 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type Cart as array in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php:99
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php(70): CartService->mapProductToModel(Object(Cart))
+#1 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php(24): CartService->viewCart()
+#2 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 99
+[31-Aug-2023 07:20:46 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type Cart as array in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php:99
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php(70): CartService->mapProductToModel(Object(Cart))
+#1 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php(24): CartService->viewCart()
+#2 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 99
+[31-Aug-2023 07:25:02 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type Cart as array in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php:70
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php(24): CartService->viewCart()
+#1 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 70
+[31-Aug-2023 07:25:14 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type Cart as array in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php:70
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php(24): CartService->viewCart()
+#1 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 70
+[31-Aug-2023 07:26:53 America/Boise] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/shop.php on line 4
+[31-Aug-2023 09:01:58 America/Boise] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, ProductItem given in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php:50
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php(16): CartService->addItem('6', 1)
+#1 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 50
+[31-Aug-2023 09:02:56 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type ProductItem as array in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php:51
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php(16): CartService->addItem('6', 1)
+#1 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 51
+[31-Aug-2023 09:04:15 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type ProductItem as array in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php:53
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php(16): CartService->addItem('6', 1)
+#1 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 53
+[31-Aug-2023 09:04:32 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type __PHP_Incomplete_Class as array in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php:36
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php(16): CartService->addItem('6', 1)
+#1 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 36
+[31-Aug-2023 09:05:27 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type __PHP_Incomplete_Class as array in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php:38
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php(16): CartService->addItem('6', 1)
+#1 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 38
+[31-Aug-2023 09:05:53 America/Boise] PHP Warning:  CartService::addItem(): The script tried to access a property on an incomplete object. Please ensure that the class definition &quot;ProductItem&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 38
+[31-Aug-2023 09:05:53 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type __PHP_Incomplete_Class as array in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php:103
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php(73): CartService->mapProductToModel(Object(__PHP_Incomplete_Class))
+#1 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php(24): CartService->viewCart()
+#2 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 103
+[31-Aug-2023 09:06:58 America/Boise] PHP Warning:  CartService::addItem(): The script tried to access a property on an incomplete object. Please ensure that the class definition &quot;ProductItem&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 39
+[31-Aug-2023 09:06:58 America/Boise] PHP Warning:  CartService::addItem(): The script tried to access a property on an incomplete object. Please ensure that the class definition &quot;ProductItem&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 39
+[31-Aug-2023 09:06:58 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type __PHP_Incomplete_Class as array in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php:104
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php(74): CartService->mapProductToModel(Object(__PHP_Incomplete_Class))
+#1 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php(24): CartService->viewCart()
+#2 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 104
+[31-Aug-2023 09:08:33 America/Boise] PHP Warning:  CartService::addItem(): The script tried to access a property on an incomplete object. Please ensure that the class definition &quot;ProductItem&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 39
+[31-Aug-2023 09:08:33 America/Boise] PHP Warning:  CartService::addItem(): The script tried to access a property on an incomplete object. Please ensure that the class definition &quot;ProductItem&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 39
+[31-Aug-2023 09:08:33 America/Boise] PHP Warning:  CartService::addItem(): The script tried to access a property on an incomplete object. Please ensure that the class definition &quot;ProductItem&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 39
+[31-Aug-2023 09:08:33 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type __PHP_Incomplete_Class as array in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php:104
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php(74): CartService->mapProductToModel(Object(__PHP_Incomplete_Class))
+#1 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php(24): CartService->viewCart()
+#2 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 104
+[31-Aug-2023 09:09:22 America/Boise] PHP Warning:  CartService::addItem(): The script tried to access a property on an incomplete object. Please ensure that the class definition &quot;ProductItem&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 40
+[31-Aug-2023 09:09:22 America/Boise] PHP Warning:  CartService::addItem(): The script tried to access a property on an incomplete object. Please ensure that the class definition &quot;ProductItem&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 40
+[31-Aug-2023 09:09:22 America/Boise] PHP Warning:  CartService::addItem(): The script tried to access a property on an incomplete object. Please ensure that the class definition &quot;ProductItem&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 40
+[31-Aug-2023 09:09:22 America/Boise] PHP Warning:  CartService::addItem(): The script tried to access a property on an incomplete object. Please ensure that the class definition &quot;ProductItem&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 40
+[31-Aug-2023 09:09:22 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type __PHP_Incomplete_Class as array in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php:105
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php(75): CartService->mapProductToModel(Object(__PHP_Incomplete_Class))
+#1 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php(24): CartService->viewCart()
+#2 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 105
+[31-Aug-2023 09:11:32 America/Boise] PHP Parse error:  syntax error, unexpected variable "$product" in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 37
+[31-Aug-2023 09:11:43 America/Boise] PHP Warning:  CartService::addItem(): The script tried to access a property on an incomplete object. Please ensure that the class definition &quot;ProductItem&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 40
+[31-Aug-2023 09:11:43 America/Boise] PHP Warning:  CartService::addItem(): The script tried to access a property on an incomplete object. Please ensure that the class definition &quot;ProductItem&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 40
+[31-Aug-2023 09:11:43 America/Boise] PHP Warning:  CartService::addItem(): The script tried to access a property on an incomplete object. Please ensure that the class definition &quot;ProductItem&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 40
+[31-Aug-2023 09:11:43 America/Boise] PHP Warning:  CartService::addItem(): The script tried to access a property on an incomplete object. Please ensure that the class definition &quot;ProductItem&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 40
+[31-Aug-2023 09:11:43 America/Boise] PHP Warning:  CartService::addItem(): The script tried to access a property on an incomplete object. Please ensure that the class definition &quot;ProductItem&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 40
+[31-Aug-2023 09:11:43 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type __PHP_Incomplete_Class as array in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php:105
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php(75): CartService->mapProductToModel(Object(__PHP_Incomplete_Class))
+#1 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php(24): CartService->viewCart()
+#2 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 105
+[31-Aug-2023 09:18:45 America/Boise] PHP Warning:  CartService::addItem(): The script tried to access a property on an incomplete object. Please ensure that the class definition &quot;ProductItem&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 40
+[31-Aug-2023 09:18:45 America/Boise] PHP Warning:  CartService::addItem(): The script tried to access a property on an incomplete object. Please ensure that the class definition &quot;ProductItem&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 40
+[31-Aug-2023 09:18:45 America/Boise] PHP Warning:  CartService::addItem(): The script tried to access a property on an incomplete object. Please ensure that the class definition &quot;ProductItem&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 40
+[31-Aug-2023 09:18:45 America/Boise] PHP Warning:  CartService::addItem(): The script tried to access a property on an incomplete object. Please ensure that the class definition &quot;ProductItem&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 40
+[31-Aug-2023 09:18:45 America/Boise] PHP Warning:  CartService::addItem(): The script tried to access a property on an incomplete object. Please ensure that the class definition &quot;ProductItem&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 40
+[31-Aug-2023 09:18:45 America/Boise] PHP Warning:  CartService::addItem(): The script tried to access a property on an incomplete object. Please ensure that the class definition &quot;ProductItem&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 40
+[31-Aug-2023 09:18:45 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type __PHP_Incomplete_Class as array in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php:105
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php(75): CartService->mapProductToModel(Object(__PHP_Incomplete_Class))
+#1 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php(24): CartService->viewCart()
+#2 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 105
+[31-Aug-2023 09:19:54 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type ProductItem as array in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php:51
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php(16): CartService->addItem('6', 1)
+#1 {main}
+
+Next Error: Cannot use object as array in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php:51
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php(16): CartService->addItem('6', 1)
+#1 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 51
+[31-Aug-2023 09:21:06 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type ProductItem as array in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php:106
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php(76): CartService->mapProductToModel(Object(ProductItem))
+#1 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php(24): CartService->viewCart()
+#2 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 106
+[31-Aug-2023 09:22:20 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type Cart as array in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php:76
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php(24): CartService->viewCart()
+#1 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 76
+[31-Aug-2023 09:23:16 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type Cart as array in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php:76
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php(24): CartService->viewCart()
+#1 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 76
+[31-Aug-2023 09:24:04 America/Boise] PHP Fatal error:  Uncaught Error: Attempt to assign property "productTotal" on array in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php:78
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php(24): CartService->viewCart()
+#1 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 78
+[31-Aug-2023 09:25:13 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type ProductItem as array in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php:17
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php(22): CartService->removeItem('6')
+#1 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php on line 17
+[01-Sep-2023 07:17:36 America/Boise] PHP Warning:  Undefined array key "id" in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/detailsWService.php on line 101
+[01-Sep-2023 07:17:36 America/Boise] PHP Warning:  Attempt to read property "num_rows" on bool in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 16
+[01-Sep-2023 07:20:33 America/Boise] PHP Warning:  Undefined property: CartItem::$totalPrice in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php on line 323
+[01-Sep-2023 07:20:33 America/Boise] PHP Warning:  Undefined variable $totalPrice in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php on line 324
+[01-Sep-2023 07:20:33 America/Boise] PHP Warning:  Undefined variable $totalPrice in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php on line 324
+[01-Sep-2023 07:21:40 America/Boise] PHP Warning:  Undefined property: CartItem::$totalPrice in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php on line 323
+[01-Sep-2023 07:27:14 America/Boise] PHP Warning:  Undefined property: CartItem::$totalPrice in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php on line 322
+[01-Sep-2023 07:27:37 America/Boise] PHP Warning:  Undefined property: CartItem::$totalPrice in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php on line 322
+[01-Sep-2023 07:28:11 America/Boise] PHP Warning:  Undefined property: CartItem::$totalPrice in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php on line 322
+[01-Sep-2023 08:18:13 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "model" in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php:71
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/cartService.php(3): require_once()
+#1 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/cartnew.php(2): require_once('/home3/sirmonts...')
+#2 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/productService.php on line 71
+[04-Sep-2023 10:59:47 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method NewsService::mapProductToModel() in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/newsService.php:27
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/news.php(5): NewsService->getallNewsPost()
+#1 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/newsService.php on line 27
+[04-Sep-2023 10:59:57 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method NewsService::mapProductToModel() in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/newsService.php:27
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/news.php(5): NewsService->getallNewsPost()
+#1 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/newsService.php on line 27
+[04-Sep-2023 11:01:04 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method NewsService::mapProductToModel() in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/newsService.php:27
+Stack trace:
+#0 /home3/sirmonts/public_html/shelayah/Lovely_Skincare/news.php(5): NewsService->getallNewsPost()
+#1 {main}
+  thrown in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/infrastructure/services/newsService.php on line 27
+[04-Sep-2023 15:35:06 America/Boise] PHP Parse error:  syntax error, unexpected token "%" in /home3/sirmonts/public_html/shelayah/Lovely_Skincare/news.php on line 15
